@@ -1,0 +1,45 @@
+{
+  "Widget": {
+    "Widget": {
+      "provides": [
+        "Widget"
+      ],
+      "requires": [
+
+      ],
+      "desc": "An abstract class for all your widgets out there."
+    },
+    "Input": {
+      "Input": {
+        "provides": [
+          "Input"
+        ],
+        "requires": [
+          "Widget"
+        ],
+        "desc": "Basic input class"
+      },
+      "Input.Color": {
+        "provides": [
+          "Input.Color"
+        ],
+        "requires": [
+          "Input",
+          "Color"
+        ],
+        "desc": "Cool colorpicker for everyone to enjoy"
+      }
+    }
+  },
+  "Library": {
+    "Color": {
+      "provides": [
+        "Color"
+      ],
+      "requires": [
+
+      ],
+      "desc": "A library to work with colors"
+    }
+  }
+}

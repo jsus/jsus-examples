@@ -1,6 +1,22 @@
 /*
 ---
  
+script: Color.js
+ 
+description: A library to work with colors
+ 
+license: MIT-style license
+ 
+authors:
+- Valerio Proietti
+ 
+provides: [Color]
+ 
+...
+*/
+/*
+---
+ 
 script: Class.js
  
 description: Contains the Class Function for easily creating, extending, and implementing reusable Classes.
@@ -79,22 +95,6 @@ requires:
 - Widget
  
 provides: [Input]
- 
-...
-*/
-/*
----
- 
-script: Color.js
- 
-description: A library to work with colors
- 
-license: MIT-style license
- 
-authors:
-- Valerio Proietti
- 
-provides: [Color]
  
 ...
 */

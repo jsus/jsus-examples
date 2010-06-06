@@ -1,6 +1,5 @@
 {
   "orwik": {
-    "desc": "Orwik widgets and essensial things",
     "provides": [
       "Widget",
       "Input",
@@ -10,6 +9,7 @@
       "Hash/Hash",
       "Mash/Mash"
     ],
+    "desc": "Orwik widgets and essensial things",
     "requires": [
 
     ]
