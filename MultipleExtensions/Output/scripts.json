@@ -1,0 +1,11 @@
+{
+  "Core": {
+    "desc": "Framework base stuff",
+    "provides": [
+      "Class"
+    ],
+    "requires": [
+
+    ]
+  }
+}

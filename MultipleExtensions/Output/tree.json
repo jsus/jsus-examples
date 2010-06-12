@@ -1,0 +1,11 @@
+{
+  "Class": {
+    "provides": [
+      "Class"
+    ],
+    "requires": [
+
+    ],
+    "desc": "Contains the Class Function for easily creating, extending, and implementing reusable Classes."
+  }
+}
