@@ -1,46 +1,46 @@
 {
   "Library": {
     "Color": {
-      "provides": [
-        "Color"
-      ],
+      "desc": "A library to work with colors",
       "requires": [
 
       ],
-      "desc": "A library to work with colors"
+      "provides": [
+        "Color"
+      ]
     }
   },
   "Widget": {
-    "Input": {
-      "Input.Color": {
-        "provides": [
-          "Input.Color"
-        ],
-        "requires": [
-          "Input",
-          "Color"
-        ],
-        "desc": "Cool colorpicker for everyone to enjoy"
-      },
-      "Input": {
-        "provides": [
-          "Input"
-        ],
-        "requires": [
-          "Widget"
-        ],
-        "desc": "Basic input class"
-      }
-    },
     "Widget": {
-      "provides": [
-        "Widget"
-      ],
+      "desc": "An abstract class for all your widgets out there.",
       "requires": [
         "Class/Class",
         "Mash/Mash"
       ],
-      "desc": "An abstract class for all your widgets out there."
+      "provides": [
+        "Widget"
+      ]
+    },
+    "Input": {
+      "Input": {
+        "desc": "Basic input class",
+        "requires": [
+          "Widget"
+        ],
+        "provides": [
+          "Input"
+        ]
+      },
+      "Input.Color": {
+        "desc": "Cool colorpicker for everyone to enjoy",
+        "requires": [
+          "Input",
+          "Color"
+        ],
+        "provides": [
+          "Input.Color"
+        ]
+      }
     }
   }
 }
