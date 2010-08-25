@@ -1,0 +1,17 @@
+{
+  "orwik": {
+    "provides": [
+      "Widget",
+      "Input",
+      "Color",
+      "Input.Color",
+      "Class/Class",
+      "Hash/Hash",
+      "Mash/Mash"
+    ],
+    "desc": "Orwik widgets and essensial things",
+    "requires": [
+      "Type"
+    ]
+  }
+}
