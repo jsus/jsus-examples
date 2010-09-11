@@ -1,0 +1,14 @@
+{
+  "Sheet": {
+    "desc": "100% DOM-less JavaScript implementation of the styleSheets, cssRule & style APIs \nSupports custom and browser-incompatible CSS syntax like nested rules",
+    "provides": [
+      "Sheet.DOM",
+      "combineRegExp",
+      "SheetParser.CSS",
+      "Sheet"
+    ],
+    "requires": [
+
+    ]
+  }
+}
