@@ -1,0 +1,2 @@
+Jsus command-line utility was invoked with following arguments:
+    jsus -i Test -d . -o Output --generate-docs "*"
