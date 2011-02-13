@@ -1,2 +1,2 @@
 Jsus command-line utility was invoked with following arguments:
-    jsus -i Test -o Output -d Core
+    jsus Test Output -d Core
