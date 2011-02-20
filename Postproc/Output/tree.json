@@ -1,0 +1,11 @@
+{
+  "Core": {
+    "desc": "Mootools fake core",
+    "requires": [
+
+    ],
+    "provides": [
+      "Core"
+    ]
+  }
+}
