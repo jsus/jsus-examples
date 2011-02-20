@@ -1,0 +1,12 @@
+{
+  "Package": {
+    "desc": "Jsus package linked to externally replaced library",
+    "provides": [
+      "Color",
+      "Mootools Fork/More"
+    ],
+    "requires": [
+      "Mootools/Core"
+    ]
+  }
+}

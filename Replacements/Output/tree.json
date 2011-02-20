@@ -1,0 +1,13 @@
+{
+  "Library": {
+    "Color": {
+      "desc": "A library to work with colors",
+      "requires": [
+        "Mootools/Core"
+      ],
+      "provides": [
+        "Color"
+      ]
+    }
+  }
+}

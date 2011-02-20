@@ -1,0 +1,4 @@
+Example with replacements monkey patch.
+
+Jsus command-line utility was invoked with following arguments:
+    jsus Package Output -d .
