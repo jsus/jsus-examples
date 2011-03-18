@@ -1,0 +1,12 @@
+{
+  "Compression": {
+    "desc": "Jsus package with correct order set",
+    "provides": [
+      "Color",
+      "Input.Color"
+    ],
+    "requires": [
+
+    ]
+  }
+}
