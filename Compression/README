@@ -1,4 +1,4 @@
-The most basic example. No dependencies resolved.
+The most basic example. No dependencies resolved. Results were compressed (see compression.min.js)
 
 Jsus command-line utility was invoked with following arguments:
     jsus Package Output --compress

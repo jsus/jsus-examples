@@ -1,17 +1,17 @@
 {
-  "orwik": {
-    "desc": "Orwik widgets and essensial things",
-    "provides": [
-      "Color",
-      "Widget",
-      "Input",
-      "Input.Color",
-      "Class/Class",
-      "Hash/Hash",
-      "Mash/Mash"
-    ],
+  "Raptor": {
     "requires": [
 
+    ],
+    "desc": "Raptor widgets and essensial things",
+    "provides": [
+      "Raptor/Color",
+      "Class/Class",
+      "Hash/Hash",
+      "Mash/Mash",
+      "Raptor/Widget",
+      "Raptor/Input",
+      "Raptor/Input.Color"
     ]
   }
 }

@@ -16,12 +16,12 @@ provides: [Class]
 
 script: Class.js
 
-description: Extension for Core/Class
+description: Other extensions for Core/Class
 
 license: MIT-style license
 
 authors:
-- Valerio Proietti
+- Someone Else
 
 extends: "Core/Class"
 
@@ -32,12 +32,12 @@ extends: "Core/Class"
 
 script: Class.js
 
-description: Other extensions for Core/Class
+description: Extension for Core/Class
 
 license: MIT-style license
 
 authors:
-- Someone Else
+- Valerio Proietti
 
 extends: "Core/Class"
 

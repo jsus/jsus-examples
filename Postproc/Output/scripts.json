@@ -1,11 +1,11 @@
 {
   "Mootools": {
-    "desc": "Mootools fork which is going to be postprocessed. This one has its ltIE8 and compat12 features removed.",
-    "provides": [
-      "Core"
-    ],
     "requires": [
 
+    ],
+    "desc": "Mootools fork which is going to be postprocessed. This one has its ltIE8 and compat12 features removed.",
+    "provides": [
+      "Mootools/Core"
     ]
   }
 }

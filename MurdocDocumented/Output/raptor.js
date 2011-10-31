@@ -17,26 +17,11 @@ provides: [Color]
 /*
 ---
  
-script: Type.js
- 
-description: Something
- 
-license: MIT-style license.
-
-provides: [Type]
- 
-...
-*/
-/*
----
- 
 script: Class.js
  
 description: Contains the Class Function for easily creating, extending, and implementing reusable Classes.
  
 license: MIT-style license.
-
-requires: [Type]
 
 provides: [Class]
  
@@ -94,6 +79,13 @@ provides: [Widget]
  
 ...
 */
+
+
+var local = 123;
+var other = 321;
+
+(function() {})( alert("Hello!") );
+
 /*
 ---
  

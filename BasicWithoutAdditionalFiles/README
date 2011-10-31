@@ -1,5 +1,5 @@
-The most basic example. No dependencies resolved. 
+The most basic example. No dependencies resolved.
 Notice how I didn't generate any additional json info files.
 
 Jsus command-line utility was invoked with following arguments:
-    jsus Orwik Output --without-tree --without-scripts-info
+    jsus Raptor Output --without-scripts-info
